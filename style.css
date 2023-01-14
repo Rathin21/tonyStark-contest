@@ -171,6 +171,11 @@ line-height: 27px;
 color: rgba(255, 255, 255, 0.5);
 }
 
+.link{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+
 #image2{
     position: absolute;
 width: 722px;
@@ -243,3 +248,48 @@ border: 1px solid rgba(255, 255, 255, 0.5);
 color: rgba(255, 255, 255, 0.5);
 
 }
+
+.vl1{
+    position: absolute;
+width: 329px;
+height: 0px;
+left: 10px;
+top: 263px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+transform: rotate(90deg);
+}
+
+.vl2{
+    position: absolute;
+width: 329px;
+height: 0px;
+left: 350px;
+top: 263px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+transform: rotate(90deg);
+}
+
+.vl3{
+    position: absolute;
+width: 329px;
+height: 0px;
+left: 750px;
+top: 263px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+transform: rotate(90deg);
+}
+
+.vl4{
+    position: absolute;
+width: 1222px;
+height: 0px;
+left: 64px;
+top: 165px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+transform: rotate(180deg);
+}
+
